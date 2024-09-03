@@ -11,5 +11,5 @@ Let the journey beginn.
 ## So far 💻
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Shell](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/git-icon.png)
+![html](https://camo.githubusercontent.com/4f8e231cfebed19be52d23c2df9fe920637d4eeac34fb4b696b50c03bb58411e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35)
 
