@@ -1,6 +1,6 @@
 ## Hello
 
-Im Leonard Momber from Hamburg. 
+I'm Leonard Momber from Hamburg. 
 
 On the 2. September 2024 i started my webdevelopment bootcamp [@neuefische](https://www.neuefische.de/).
 
